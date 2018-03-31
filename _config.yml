@@ -2,7 +2,7 @@
 title:       Klip64
 email:       phoneklip64@gmail.com
 author:      Matt Cochrane
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "An attachment for a usb n64 controller that allows it to hold your phone while you play"
 baseurl:     ""
 url:         "http://klip64.com"
 date_format: "%b %-d, %Y"
