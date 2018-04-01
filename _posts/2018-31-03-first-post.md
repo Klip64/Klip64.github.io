@@ -1,10 +1,10 @@
-----
+---
 layout:     post
 title:      Website Launch!!
 date:       2018-31-03
 summary:    The Website is launched!
 categories: updates
-----
+---
 
 Welcome to the new website!
 
