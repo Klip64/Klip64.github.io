@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Website Launch!!
-date:       2018-31-03
+date:       2018-03-31
 summary:    The Website is launched!
 categories: updates
 ---
